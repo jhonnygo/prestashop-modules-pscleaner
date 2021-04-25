@@ -1,0 +1,14 @@
+{
+    "name": "jhoncytech/prestashop-modules-pscleaner",
+    "description": "Prestashop module for help you to remove testing data from your prestashop online store.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhonny A. Gomez S.",
+            "email": "jhonny@jhoncytech.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

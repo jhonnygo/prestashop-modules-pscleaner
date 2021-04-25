@@ -1,0 +1,24 @@
+{
+  "name": "@jhonnygo/prestashop-modules-pscleaner",
+  "version": "2.1.0",
+  "description": "Prestashop module for help you to remove testing data from your prestashop online store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnygo/prestashop-modules-pscleaner.git"
+  },
+  "keywords": [
+    "prestashop",
+    "modules",
+    "pscleaner"
+  ],
+  "author": "Jhonny A. Gomez S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonnygo/prestashop-modules-pscleaner/issues"
+  },
+  "homepage": "https://github.com/jhonnygo/prestashop-modules-pscleaner#readme"
+}
